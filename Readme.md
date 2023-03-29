@@ -5,9 +5,10 @@
 
 Sou desenvolvedora backend utilizando Java, mas tenho conhecimento de NestJs, NodeJs, PHP e Laravel.
 
+Já vi um pouco na prática sobre Javascript e React Native.
+
 I'm a backend programmer with Java, but I have knowledge of NestJs, NodeJs, PHP and Laravel.
 
-Já vi um pouco na prática sobre Javascript e React Native.
 I've seen a little in practice about Javascript and React Native.
 
 Skills: Java | Springboot | AWS | SQL
