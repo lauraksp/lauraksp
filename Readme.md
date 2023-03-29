@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Laura Kimberly
+
 #### Seja bem-vindx
+#### You're welcome!
 
 Sou um programador backend com background em Java, mas tenho conhecimento de NestJs, NodeJs, PHP e Laravel.
 I'm a backend programmer with a background in Java, but I have knowledge of NestJs, NodeJs, PHP and Laravel.
