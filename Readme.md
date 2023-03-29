@@ -1,13 +1,20 @@
 ### Hi 👋, I'm Laura Kimberly
 #### Seja bem-vindx
+
+Sou um programador backend com background em Java, mas tenho conhecimento de NestJs, NodeJs, PHP e Laravel.
 I'm a backend programmer with a background in Java, but I have knowledge of NestJs, NodeJs, PHP and Laravel.
 
+Já vi um pouco na prática sobre Javascript e React Native.
 I've seen a little in practice about Javascript and React Native.
 
 Skills: Java | Springboot | AWS | SQL
 
+- 🔭 Atualmente estou trabalhando nesta página;
+- 👯 Procuro colaborar na criação de novas funcionalidades, correções de bugs com Java e Spring e testes unitários;
+- 📫 Como chegar até mim: lauraksp@icloud.com;
+- ⚡ Curiosidade: sofri um acidente de moto e fiquei 3 meses sem poder andar, mas mesmo assim continuei estudando, seria engraçado se não fosse trágico.
+
 - 🔭 I’m currently working on this page; 
-- 🌱 I’m currently learning Java, Springboot; 
 - 👯 I’m looking to collaborate on creation of new features, bug fixes with Java and Spring and unit tests; 
 - 📫 How to reach me: lauraksp@icloud.com; 
 - ⚡ Fun fact: I had a motorcycle accident and I was unable to walk for 3 months, but even so I continued studying, it would be funny if it weren't tragic. 
