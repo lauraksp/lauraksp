@@ -3,9 +3,9 @@
 #### Seja bem-vindx
 #### You're welcome!
 
-Sou um programador backend com background em Java, mas tenho conhecimento de NestJs, NodeJs, PHP e Laravel.
+Sou desenvolvedora backend utilizando Java, mas tenho conhecimento de NestJs, NodeJs, PHP e Laravel.
 
-I'm a backend programmer with a background in Java, but I have knowledge of NestJs, NodeJs, PHP and Laravel.
+I'm a backend programmer with Java, but I have knowledge of NestJs, NodeJs, PHP and Laravel.
 
 Já vi um pouco na prática sobre Javascript e React Native.
 I've seen a little in practice about Javascript and React Native.
