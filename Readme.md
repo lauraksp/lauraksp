@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Laura Kimberly
-#### Esse é meu portfólio
+### Hi 👋, I'm Laura Kimberly
+#### Seja bem-vindx
 I'm a backend programmer with a background in Java, but I have knowledge of NestJs, NodeJs, PHP and Laravel.
 
 I've seen a little in practice about Javascript and React Native.
