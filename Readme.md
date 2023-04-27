@@ -1,6 +1,6 @@
 #### Seja bem-vindx
 
-Sou desenvolvedora backend utilizando a stack de Java v11 com Springboot.
+Sou desenvolvedora backend utilizando a stack de Java(v11) com Spring Framework.
 
 Já vi um pouco nos estudos sobre Javascript e React Native.
 
