@@ -1,10 +1,10 @@
 #### Seja bem-vindx
 
-Sou desenvolvedora backend utilizando a stack de Java(v11) com Spring Framework.
+Sou desenvolvedora backend utilizando a stack de Java(v11) com Spring Framework / Golang
 
 Já vi um pouco nos estudos sobre Javascript e React Native.
 
-Skills: Java | Springboot | SQL 
+Skills: Java | Springboot | SQL | Golang
 
 - 🔭 Atualmente estou trabalhando nesta página;
 - 👯 Procuro colaborar na criação de novas funcionalidades, correções de bugs com Java e Spring e testes unitários;
